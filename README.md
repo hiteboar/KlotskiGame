@@ -20,7 +20,7 @@ Then you can change the image if you prefer to play win a specific one. This wil
 
 Press the "Start" button when you are ready to start. When you press it, you will see the image start mixing itself, when it stops you can start moeving the pieces yourself.
 
-###Movements
+### Movements
 
 To solve the puzzle you can ONLY move a piece near the empty space to that empty space.
 Using the button "help" the game will show you an image of the solved puzzle, when you release the button the image will disapear
