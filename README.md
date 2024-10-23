@@ -25,3 +25,5 @@ Press the "Start" button when you are ready to start. When you press it, you wil
 To solve the puzzle you can ONLY move a piece near the empty space to that empty space.
 Using the button "help" the game will show you an image of the solved puzzle, when you release the button the image will disapear
 
+![screenshot3](https://github.com/user-attachments/assets/c303204a-b9c4-402a-b344-0497add6353b)
+![screenshot1](https://github.com/user-attachments/assets/35874331-e1a8-4618-b525-e012e80b96cd)
